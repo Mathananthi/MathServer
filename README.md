@@ -131,8 +131,11 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![Alt text](<Screenshot (17).png>)
-![Alt text](<Screenshot (18).png>)
+
+![Screenshot (17)](https://github.com/Mathananthi/MathServer/assets/135731816/e9e998ca-e670-440a-8560-f6276971cd82)
+
+![Screenshot (18)](https://github.com/Mathananthi/MathServer/assets/135731816/24cc3795-8269-47f8-ae8f-a9ff0995fb9d)
+
 
 
 ## RESULT:
